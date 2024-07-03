@@ -1,1 +1,1 @@
-# Mine_Sweeper_ConsoleAPP
+# Mine Sweeper Console APP
